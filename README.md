@@ -1,6 +1,6 @@
 🗄️ Database-Management-Systems-Laboratory
 
-This repository contains practical, hands-on implementations of Database Management System (DBMS) concepts using modern web technologies. It is designed for students, lab work, and mini-projects focused on backend and full-stack development.
+This repository contains practical, hands-on implementations of Database Management System (DBMS) concepts using modern web technologies. It is designed for students, lab work, and projects focused on backend and full-stack development.
 
 🔧 Technologies Used
 
@@ -45,7 +45,7 @@ Clean form design
 
 Interactive client-side features
 
-🗂️ Mini Projects
+🗂️ Projects
 
 Includes small-scale DBMS-based applications that integrate:
 
