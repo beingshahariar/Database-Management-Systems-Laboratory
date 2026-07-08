@@ -150,8 +150,6 @@ This laboratory project demonstrates practical knowledge of:
 
 **Course Title:** Database Management Systems Laboratory
 
-**Course Code:** CSE 2412 *(Update if your course code is different.)*
-
 ---
 
 ## 📜 License
